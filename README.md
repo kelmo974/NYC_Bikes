@@ -1,5 +1,6 @@
 # NYC_Bikes
 ##### Cleaning and extracting data via Pandas then visualizing in Tableau to identify trends among CITI Bike rides and users.
+[Link to Tableau Public Story](https://public.tableau.com/app/profile/kellen6976/viz/CITI_Bike_Challenge/BikeshareFindings?publish=yes)
 
 ## Purpose
 It is imperative to have useful data prior to developing any type of visualizations. Pandas was employed to manipluate the data and then produce a tidy CSV which could then be imported to Tableau. The exploration and vizualizations contained within this repo offer insight to the feasability of launching a bike share service in a small-to-midsize city
@@ -34,3 +35,5 @@ The final heatmap here shows what a strong impact on usage male subscribers have
 Upon insepecting the data closely, and with the aid of Tableau vizualization, that NYC CITI Bike revenue largely hinges upon male use. More specifically, it is a strong option for males users to repeatedly commute to work by riding CITI Bike. 
 
 As conveyed, NYC CITI Bike greatly benefits from male commuters during the peak commute hours of weekdays. Outside of those numbers, there is a sizeable drop in usage. It would be important to not only combat this defficiency in NYC, but also take measures to minimize this issue when expanging to another city that may not have the benefit of such a strong car-free commute culture. 
+
+[Link to Tableau Public Story](https://public.tableau.com/app/profile/kellen6976/viz/CITI_Bike_Challenge/BikeshareFindings?publish=yes)
