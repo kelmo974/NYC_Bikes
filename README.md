@@ -1,2 +1,2 @@
 # NYC_Bikes
-Manipulating data with Pandas then visualizing in Tableau.
+Manipulating  CITI Bike data with Pandas then visualizing in Tableau.
